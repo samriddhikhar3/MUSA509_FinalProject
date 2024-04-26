@@ -1,0 +1,115 @@
+UserID,Timestamp,Latitude,Longitude,Interest1,Interest2,Interest3
+1,2024-04-25 00:31:55,40.712707,-74.00484,Data Science,Art,Networking
+1,2024-04-25 16:13:11,40.71291,-74.005592,Data Science,Art,Networking
+1,2024-04-25 13:42:26,40.712845,-74.005321,Data Science,Art,Networking
+1,2024-04-25 18:38:30,40.712344,-74.005538,Data Science,Art,Networking
+1,2024-04-25 05:03:35,40.713826,-74.004696,Data Science,Art,Networking
+2,2024-04-24 23:23:08,40.713298,-74.004777,Data Science,Networking,Consultancy
+2,2024-04-25 07:43:06,40.712148,-74.004642,Data Science,Networking,Consultancy
+2,2024-04-25 19:02:23,40.713227,-74.005815,Data Science,Networking,Consultancy
+2,2024-04-25 22:05:58,40.713404,-74.005974,Data Science,Networking,Consultancy
+2,2024-04-25 18:16:58,40.712419,-74.004017,Data Science,Networking,Consultancy
+2,2024-04-25 23:09:20,40.712661,-74.005936,Data Science,Networking,Consultancy
+3,2024-04-25 13:02:06,40.713734,-74.005702,Art,Networking,Consultancy
+3,2024-04-25 05:12:23,40.712302,-74.005995,Art,Networking,Consultancy
+3,2024-04-25 14:41:33,40.712363,-74.004851,Art,Networking,Consultancy
+3,2024-04-25 10:46:58,40.713385,-74.004164,Art,Networking,Consultancy
+3,2024-04-25 03:42:17,40.713344,-74.005163,Art,Networking,Consultancy
+3,2024-04-24 23:23:35,40.712191,-74.004957,Art,Networking,Consultancy
+4,2024-04-25 20:43:11,40.712788,-74.004357,Art,Consultancy,Networking
+4,2024-04-25 02:50:01,40.713868,-74.004559,Art,Consultancy,Networking
+4,2024-04-25 14:18:35,40.713065,-74.00415,Art,Consultancy,Networking
+4,2024-04-25 07:35:55,40.712791,-74.00514,Art,Consultancy,Networking
+4,2024-04-24 23:44:54,40.712098,-74.005054,Art,Consultancy,Networking
+5,2024-04-25 17:36:07,40.712327,-74.005301,Consultancy,Art,Data Science
+5,2024-04-25 05:17:44,40.713309,-74.005913,Consultancy,Art,Data Science
+5,2024-04-25 03:42:39,40.713511,-74.004941,Consultancy,Art,Data Science
+5,2024-04-25 19:01:05,40.71208,-74.004629,Consultancy,Art,Data Science
+5,2024-04-25 01:18:14,40.713789,-74.004694,Consultancy,Art,Data Science
+5,2024-04-25 06:10:46,40.712169,-74.004886,Consultancy,Art,Data Science
+6,2024-04-25 16:10:01,40.712687,-74.005564,Consultancy,Networking,Art
+6,2024-04-25 00:46:52,40.713388,-74.005659,Consultancy,Networking,Art
+6,2024-04-25 05:23:55,40.712768,-74.005287,Consultancy,Networking,Art
+6,2024-04-25 20:27:14,40.712976,-74.005108,Consultancy,Networking,Art
+6,2024-04-25 18:09:12,40.713545,-74.004407,Consultancy,Networking,Art
+7,2024-04-25 17:02:46,40.713109,-74.00563,Consultancy,Data Science,Art
+7,2024-04-25 21:50:19,40.712156,-74.005102,Consultancy,Data Science,Art
+7,2024-04-25 02:42:50,40.712901,-74.004523,Consultancy,Data Science,Art
+7,2024-04-24 23:27:08,40.713021,-74.005881,Consultancy,Data Science,Art
+7,2024-04-25 10:36:06,40.712959,-74.004072,Consultancy,Data Science,Art
+7,2024-04-25 04:09:24,40.712506,-74.005616,Consultancy,Data Science,Art
+8,2024-04-25 17:46:52,40.712711,-74.005557,Networking,Art,Data Science
+8,2024-04-25 15:47:46,40.71398,-74.005521,Networking,Art,Data Science
+8,2024-04-25 07:27:55,40.712356,-74.004306,Networking,Art,Data Science
+8,2024-04-25 22:51:58,40.7132,-74.004656,Networking,Art,Data Science
+8,2024-04-25 22:03:48,40.712572,-74.005497,Networking,Art,Data Science
+8,2024-04-25 03:09:19,40.712768,-74.005913,Networking,Art,Data Science
+9,2024-04-25 15:10:24,40.712365,-74.005312,Data Science,Art,Consultancy
+9,2024-04-25 04:10:47,40.713637,-74.005859,Data Science,Art,Consultancy
+9,2024-04-25 11:44:12,40.712732,-74.005533,Data Science,Art,Consultancy
+9,2024-04-25 01:22:05,40.713547,-74.004164,Data Science,Art,Consultancy
+9,2024-04-24 23:53:12,40.713629,-74.005516,Data Science,Art,Consultancy
+9,2024-04-25 12:23:22,40.712964,-74.004605,Data Science,Art,Consultancy
+10,2024-04-25 04:32:37,40.712099,-74.004284,Consultancy,Art,Networking
+10,2024-04-25 13:50:08,40.713567,-74.004922,Consultancy,Art,Networking
+10,2024-04-25 04:35:18,40.712317,-74.005254,Consultancy,Art,Networking
+10,2024-04-25 14:22:05,40.713816,-74.005901,Consultancy,Art,Networking
+10,2024-04-25 23:01:58,40.713775,-74.005649,Consultancy,Art,Networking
+10,2024-04-25 23:08:06,40.713432,-74.004922,Consultancy,Art,Networking
+11,2024-04-25 07:45:04,40.712174,-74.005495,Art,Data Science,Networking
+11,2024-04-25 12:14:16,40.71392,-74.004263,Art,Data Science,Networking
+11,2024-04-25 13:49:23,40.713425,-74.005486,Art,Data Science,Networking
+11,2024-04-25 10:47:32,40.712873,-74.004979,Art,Data Science,Networking
+11,2024-04-25 10:48:21,40.712934,-74.005672,Art,Data Science,Networking
+12,2024-04-25 22:56:59,40.712691,-74.004651,Art,Data Science,Consultancy
+12,2024-04-25 05:00:29,40.712803,-74.004892,Art,Data Science,Consultancy
+12,2024-04-25 04:51:43,40.713954,-74.005747,Art,Data Science,Consultancy
+12,2024-04-25 18:42:58,40.712835,-74.004493,Art,Data Science,Consultancy
+12,2024-04-25 20:27:44,40.713322,-74.004703,Art,Data Science,Consultancy
+12,2024-04-25 06:49:32,40.713266,-74.005218,Art,Data Science,Consultancy
+13,2024-04-25 16:23:46,40.713222,-74.004785,Art,Consultancy,Networking
+13,2024-04-25 19:19:56,40.713533,-74.00525,Art,Consultancy,Networking
+13,2024-04-25 03:00:54,40.713618,-74.005583,Art,Consultancy,Networking
+13,2024-04-25 12:54:00,40.713864,-74.005443,Art,Consultancy,Networking
+13,2024-04-25 02:54:03,40.712151,-74.004603,Art,Consultancy,Networking
+14,2024-04-25 20:02:58,40.71214,-74.00449,Art,Data Science,Consultancy
+14,2024-04-24 23:32:33,40.712104,-74.005265,Art,Data Science,Consultancy
+14,2024-04-25 04:00:05,40.712579,-74.004355,Art,Data Science,Consultancy
+14,2024-04-25 02:09:43,40.712947,-74.004182,Art,Data Science,Consultancy
+14,2024-04-25 02:51:04,40.71202,-74.00478,Art,Data Science,Consultancy
+14,2024-04-25 20:52:37,40.713011,-74.004408,Art,Data Science,Consultancy
+15,2024-04-25 21:02:22,40.712481,-74.004594,Art,Consultancy,Networking
+15,2024-04-25 04:40:13,40.712068,-74.005959,Art,Consultancy,Networking
+15,2024-04-25 13:41:46,40.713024,-74.005727,Art,Consultancy,Networking
+15,2024-04-25 09:43:27,40.713202,-74.004518,Art,Consultancy,Networking
+15,2024-04-25 17:48:50,40.713931,-74.004417,Art,Consultancy,Networking
+15,2024-04-25 20:06:31,40.713321,-74.004101,Art,Consultancy,Networking
+16,2024-04-25 10:54:01,40.712374,-74.005122,Art,Networking,Consultancy
+16,2024-04-25 03:39:24,40.713045,-74.0052,Art,Networking,Consultancy
+16,2024-04-25 09:39:55,40.713368,-74.005365,Art,Networking,Consultancy
+16,2024-04-25 14:42:28,40.712649,-74.004499,Art,Networking,Consultancy
+16,2024-04-25 21:20:43,40.712881,-74.004648,Art,Networking,Consultancy
+17,2024-04-25 19:33:04,40.713456,-74.00422,Data Science,Networking,Art
+17,2024-04-25 04:05:49,40.712738,-74.004554,Data Science,Networking,Art
+17,2024-04-25 07:40:31,40.713823,-74.005704,Data Science,Networking,Art
+17,2024-04-25 20:12:25,40.713712,-74.00418,Data Science,Networking,Art
+17,2024-04-25 01:00:45,40.713381,-74.004676,Data Science,Networking,Art
+17,2024-04-25 07:19:07,40.713422,-74.005942,Data Science,Networking,Art
+18,2024-04-25 06:41:57,40.712011,-74.005,Networking,Consultancy,Data Science
+18,2024-04-25 01:00:11,40.713076,-74.004357,Networking,Consultancy,Data Science
+18,2024-04-25 23:10:31,40.712052,-74.005759,Networking,Consultancy,Data Science
+18,2024-04-25 17:28:38,40.713585,-74.005801,Networking,Consultancy,Data Science
+18,2024-04-25 22:48:04,40.712571,-74.00526,Networking,Consultancy,Data Science
+18,2024-04-25 21:46:49,40.712962,-74.004553,Networking,Consultancy,Data Science
+19,2024-04-25 02:58:25,40.713524,-74.004295,Networking,Data Science,Art
+19,2024-04-25 01:16:56,40.713358,-74.004115,Networking,Data Science,Art
+19,2024-04-25 08:39:49,40.712225,-74.004929,Networking,Data Science,Art
+19,2024-04-25 05:17:01,40.712478,-74.00447,Networking,Data Science,Art
+19,2024-04-25 22:49:36,40.712578,-74.005696,Networking,Data Science,Art
+19,2024-04-25 04:47:27,40.713514,-74.005869,Networking,Data Science,Art
+20,2024-04-25 12:19:02,40.713667,-74.00444,Networking,Art,Consultancy
+20,2024-04-25 01:45:50,40.71323,-74.005018,Networking,Art,Consultancy
+20,2024-04-25 22:16:12,40.713276,-74.004139,Networking,Art,Consultancy
+20,2024-04-25 10:04:15,40.712245,-74.005189,Networking,Art,Consultancy
+20,2024-04-25 00:48:13,40.713503,-74.00454,Networking,Art,Consultancy
+20,2024-04-25 20:42:32,40.712177,-74.004452,Networking,Art,Consultancy
