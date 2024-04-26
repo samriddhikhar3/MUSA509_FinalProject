@@ -1,1 +1,2 @@
-# MUSA509_FinalProject
+# Professional Networking App
+
