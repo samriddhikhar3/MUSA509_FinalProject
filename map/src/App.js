@@ -69,12 +69,12 @@ function App() {
 
   return (
     <div>
-      <h1>My Leaflet.js and React Map</h1>
+      <h1>My Networking Map</h1>
       <TimePicker
       onChange={onSetTime}
       value={time}
     />
-    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+    <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
       <MapContainer
         center={[latitude, longitude]}
         zoom={15}
