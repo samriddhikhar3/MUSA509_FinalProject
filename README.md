@@ -6,6 +6,15 @@ Our cloud-based platform notifies students if they are within a specific radius 
 
 ![IMG1](https://github.com/samriddhikhar3/MUSA509_FinalProject/blob/main/imgs/Screenshot%202024-05-10%20171224.png)
 
+## Link to Cloud Function
+https://github.com/samriddhikhar3/MUSA509_FinalProject/blob/main/cloud_func.py
+
+## Link to Front-End
+
+https://github.com/samriddhikhar3/MUSA509_FinalProject/blob/main/map/src/App.js
+
+
+
 
 
 
