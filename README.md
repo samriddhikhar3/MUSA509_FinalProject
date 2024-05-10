@@ -4,7 +4,7 @@ Students on college campuses need a real-time networking platform that allows th
 
 Our cloud-based platform notifies students if they are within a specific radius of a peer that has common interests, giving students the opportunity to connect with colleagues on campus, in smaller, more convenient intervals. 
 
-![IMG1][https://github.com/samriddhikhar3/MUSA509_FinalProject/blob/main/imgs/Screenshot%202024-05-10%20171224.png]
+![IMG1](https://github.com/samriddhikhar3/MUSA509_FinalProject/blob/main/imgs/Screenshot%202024-05-10%20171224.png)
 
 
 
